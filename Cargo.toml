@@ -8,7 +8,7 @@ license = "MIT"
 readme = "README.md"
 repository = "https://github.com/KrisNK/shared-resource-ipc"
 homepage = "https://github.com/KrisNK/shared-resource-ipc"
-keywords = ["ipc", "shared memory"]
+keywords = ["ipc", "shared", "memory"]
 
 [dependencies]
 thiserror = "1"
