@@ -2,6 +2,13 @@
 name = "shared-resource-ipc"
 version = "0.1.0"
 edition = "2021"
+authors = ["Kristofer Karam"]
+description = "Wrapper for a resource that can be shared across processes."
+license-file = "LICENCE"
+readme = "README.md"
+repository = "https://github.com/KrisNK/shared-resource-ipc"
+homepage = "https://github.com/KrisNK/shared-resource-ipc"
+keywords = ["ipc", "shared memory"]
 
 [dependencies]
 thiserror = "1"
